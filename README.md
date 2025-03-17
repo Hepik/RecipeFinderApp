@@ -76,8 +76,8 @@ To get an API key, sign up for a free Spoonacular account at [Spoonacular API](h
 
 ## Screenshots
 
-![Homepage Screenshot](recipefinderapp\public\image_2025-03-17_17-54-44.png)
+![Homepage Screenshot](https://github.com/Hepik/RecipeFinderApp/blob/main/recipefinderapp/public/image_2025-03-17_17-54-44.png?raw=true)
 
-![Recipes List](recipefinderapp\public\image_2025-03-17_17-55-17.png)
+![Recipes List](https://github.com/Hepik/RecipeFinderApp/blob/main/recipefinderapp/public/image_2025-03-17_17-55-17.png?raw=true)
 
-![Recipe Details Screenshot](recipefinderapp\public\image_2025-03-17_17-55-48.png)
+![Recipe Details Screenshot](https://github.com/Hepik/RecipeFinderApp/blob/main/recipefinderapp/public/image_2025-03-17_17-55-48.png?raw=true)
